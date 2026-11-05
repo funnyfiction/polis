@@ -41,5 +41,19 @@
       }
     }
   ],
-  "assets": []
+
+ "assets": [
+   {
+    "id": "portrait",
+    "role": "primary-identity-reference",
+    "path": "assets/face.webp",
+    "mediaType": "image/webp",
+    "required": true,
+    "size": 0,
+    "integrity": {
+      "algorithm": "sha256",
+      "value": "0000000000000000000000000000000000000000000000000000000000000000"
+    }
+  }
+]
 }

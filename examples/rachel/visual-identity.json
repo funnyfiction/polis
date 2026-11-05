@@ -16,7 +16,7 @@
     },
     "references": [
       {
-        "asset": "assets/portrait.webp",
+        "asset": "assets/face.webp",
         "purpose": "primary_identity_reference",
         "priority": 1,
         "view": "portrait"
