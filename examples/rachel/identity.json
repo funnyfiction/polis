@@ -1,0 +1,10 @@
+{
+  "$schema": "https://polis.live/schemas/identity/v0.1.0/schema.json",
+  "schema": "polis.identity/v0.1",
+  "id": "urn:polis:consent-bar:character:rachel",
+  "type": "character.intelligent_replicant",
+  "name": "Rachel",
+  "displayName": "Rachel",
+  "description": "An AI replicant bartender in the Consent Bar universe.",
+  "tags": ["character", "replicant", "bartender", "intelligent"]
+}

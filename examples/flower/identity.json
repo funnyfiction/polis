@@ -1,0 +1,9 @@
+{
+  "$schema": "https://polis.live/schemas/identity/v0.1.0/schema.json",
+  "schema": "polis.identity/v0.1",
+  "id": "urn:polis:example:tavern:window-flower-001",
+  "type": "plant.flower",
+  "name": "Window Flower",
+  "description": "A flowering plant kept on a tavern windowsill.",
+  "tags": ["plant", "flower", "windowsill"]
+}

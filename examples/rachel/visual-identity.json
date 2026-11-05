@@ -1,0 +1,26 @@
+{
+  "$schema": "https://polis.live/schemas/visual-identity/v0.1.0/schema.json",
+  "schema": "polis.visual-identity/v0.1",
+  "data": {
+    "description": "Portable visual identity reference for Rachel.",
+    "characteristics": {
+      "face": "Defined facial features; preserve the established facial identity.",
+      "hair": "Long dark hair.",
+      "eyes": "Green eyes.",
+      "distinctiveFeatures": [],
+      "visualInvariants": ["Preserve recognizable facial identity", "Preserve established body proportions"]
+    },
+    "style": {
+      "preferred": ["cinematic realism", "photorealistic"],
+      "avoid": ["unrequested cartoon stylization", "exaggerated proportions"]
+    },
+    "references": [
+      {
+        "asset": "assets/portrait.webp",
+        "purpose": "primary_identity_reference",
+        "priority": 1,
+        "view": "portrait"
+      }
+    ]
+  }
+}

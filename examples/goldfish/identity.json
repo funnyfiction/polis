@@ -1,0 +1,10 @@
+{
+  "$schema": "https://polis.live/schemas/identity/v0.1.0/schema.json",
+  "schema": "polis.identity/v0.1",
+  "id": "urn:polis:example:aquarium:goldfish-001",
+  "type": "animal.fish.goldfish",
+  "name": "Goldfish",
+  "displayName": "Goldfish",
+  "description": "A goldfish living in a counter-top aquarium.",
+  "tags": ["animal", "fish", "aquarium"]
+}

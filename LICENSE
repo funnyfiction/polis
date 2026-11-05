@@ -1,21 +1,29 @@
-MIT License
+# Creative Commons Attribution 4.0 International
 
-Copyright (c) 2026 FunnyFiction
+**SPDX-License-Identifier: CC-BY-4.0**
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Copyright © 2026 Gene Semerenko
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Published by FunnyFiction.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Unless otherwise stated, the PoLiS specification, documentation, and JSON Schema files in this repository are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+You are free to:
+
+- **Share** — copy and redistribute the material in any medium or format, for any purpose, including commercially.
+- **Adapt** — remix, transform, and build upon the material for any purpose, including commercially.
+
+Under the following terms:
+
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+- **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+The complete legal terms of the license are available at:
+
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+This license applies to the PoLiS specification, documentation, and JSON Schema files only, unless a file or section explicitly states otherwise.
+
+This license does not automatically apply to software implementations, third-party materials, example Liveable identities, character data, visual assets, trademarks, or other materials explicitly identified as subject to separate licensing terms.
+
+The PoLiS name and related trademarks are not licensed under CC BY 4.0.

@@ -1,0 +1,45 @@
+{
+  "$schema": "https://polis.live/schemas/manifest/v0.1.0/schema.json",
+  "format": "PoLiS",
+  "formatVersion": "0.1.0",
+  "package": {
+    "id": "urn:uuid:019a1234-5678-7000-8000-rachel000000",
+    "type": "liveable",
+    "createdAt": "2026-11-05T12:00:00Z",
+    "operation": "export"
+  },
+  "liveable": {
+    "id": "urn:polis:consent-bar:character:rachel",
+    "type": "character.intelligent_replicant",
+    "name": "Rachel"
+  },
+  "components": [
+    {
+      "id": "identity",
+      "role": "identity",
+      "path": "identity.json",
+      "mediaType": "application/json",
+      "schema": "https://polis.live/schemas/identity/v0.1.0/schema.json",
+      "required": true,
+      "size": 392,
+      "integrity": {
+        "algorithm": "sha256",
+        "value": "dec43ea66fe3fb7a3db179bb16721d44431f87b83a1f72bcca5126a865533095"
+      }
+    },
+    {
+      "id": "visual-identity",
+      "role": "visual-identity",
+      "path": "visual-identity.json",
+      "mediaType": "application/json",
+      "schema": "https://polis.live/schemas/visual-identity/v0.1.0/schema.json",
+      "required": false,
+      "size": 871,
+      "integrity": {
+        "algorithm": "sha256",
+        "value": "248686c35079619fe6d2ab4fa2460c63a165afb5737479aa191e446921dd15a8"
+      }
+    }
+  ],
+  "assets": []
+}

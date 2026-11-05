@@ -1,0 +1,32 @@
+{
+  "$schema": "https://polis.live/schemas/manifest/v0.1.0/schema.json",
+  "format": "PoLiS",
+  "formatVersion": "0.1.0",
+  "package": {
+    "id": "urn:uuid:019a1234-5678-7000-8000-flower000000",
+    "type": "liveable",
+    "createdAt": "2026-11-05T12:00:00Z",
+    "operation": "export"
+  },
+  "liveable": {
+    "id": "urn:polis:example:tavern:window-flower-001",
+    "type": "plant.flower",
+    "name": "Window Flower"
+  },
+  "components": [
+    {
+      "id": "identity",
+      "role": "identity",
+      "path": "identity.json",
+      "mediaType": "application/json",
+      "schema": "https://polis.live/schemas/identity/v0.1.0/schema.json",
+      "required": true,
+      "size": 328,
+      "integrity": {
+        "algorithm": "sha256",
+        "value": "b632ec961859215d4f3b597f689952df4063cbb1e6193b75f20cd8b562c81368"
+      }
+    }
+  ],
+  "assets": []
+}
