@@ -1,12 +1,12 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://polis.live/schemas/provenance/v0.1.0/schema.json",
+  "$id": "https://funnyfiction.com/polis/schemas/v0.1/provenance.schema.json",
   "title": "PoLiS Provenance Component",
   "type": "object",
   "additionalProperties": false,
   "required": ["$schema", "schema", "data"],
   "properties": {
-    "$schema": { "const": "https://polis.live/schemas/provenance/v0.1.0/schema.json" },
+    "$schema": { "const": "https://funnyfiction.com/polis/schemas/v0.1/provenance.schema.json" },
     "schema": { "const": "polis.provenance/v0.1" },
     "data": {
       "type": "object",

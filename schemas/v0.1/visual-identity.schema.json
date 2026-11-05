@@ -1,12 +1,12 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://polis.live/schemas/visual-identity/v0.1.0/schema.json",
+  "$id": "https://funnyfiction.com/polis/schemas/v0.1/visual-identity.schema.json",
   "title": "PoLiS Visual Identity Component",
   "type": "object",
   "additionalProperties": false,
   "required": ["$schema", "schema", "data"],
   "properties": {
-    "$schema": { "const": "https://polis.live/schemas/visual-identity/v0.1.0/schema.json" },
+    "$schema": { "const": "https://funnyfiction.com/polis/schemas/v0.1/visual-identity.schema.json" },
     "schema": { "const": "polis.visual-identity/v0.1" },
     "data": {
       "type": "object",
