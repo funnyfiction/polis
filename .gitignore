@@ -1,15 +1,14 @@
 scripts/
 node_modules/
-
 dist/
 build/
 data/
 logs/
 scripts/
-
-makefile
 .vite/
 
+AGENTS.md
+makefile
 .DS_Store
 *.tgz
 *.zip
