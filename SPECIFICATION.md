@@ -139,8 +139,6 @@ PoLiS does not define world simulation, physics, navigation, scheduling, agent e
 
 This document and the accompanying schemas are an initial public proposal, not a ratified standard. Conformance claims SHOULD identify the exact PoLiS version and component schemas supported. A future conformance suite is expected to define package-level checks beyond JSON Schema validation.
 ```
-
-cat > /mnt/data/polis-standard/LICENSE <<'EOF'
 PoLiS specification, documentation, and JSON Schema files are licensed under the
 Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
