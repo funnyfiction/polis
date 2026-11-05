@@ -1,5 +1,9 @@
 # PoLiS — Portable Liveables Interchange Standard
 
+<p align="center">
+ <img src="assets/identity-travels.jpg" alt="PoLiS — Identity travels. Platforms remain independent." width="100%">
+</p>
+
 **An open proposal for portable digital identities.**
 
 Imagine spending years building an AI character: giving them a name, personality, memories, relationships, appearance, and a history.
